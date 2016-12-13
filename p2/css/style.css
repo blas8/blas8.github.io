@@ -73,7 +73,7 @@ a.navbar-brand {
     font-size: 17px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #ed4f2e;
+    color: #1f2c33;
     background-color: transparent;
 }
 /*--/header--*/
@@ -154,7 +154,7 @@ span.glyphicon.glyphicon-camera,span.glyphicon.glyphicon-globe,span.glyphicon.gl
     margin-bottom: 2em;
 }
 .services h3 {
-    color: #ed4f2e;
+    color: #1f2c33;
     font-size: 2em;
     margin: 0;
     text-transform: uppercase;
@@ -190,7 +190,7 @@ span.glyphicon.glyphicon-camera,span.glyphicon.glyphicon-globe,span.glyphicon.gl
     margin-bottom: 5em;
 }
 .pri-cing h3 {
-    color: #ed4f2e;
+    color: #1f2c33;
     font-size: 2em;
     margin: 0;
     text-transform: uppercase;
@@ -261,7 +261,7 @@ span.glyphicon.glyphicon-camera,span.glyphicon.glyphicon-globe,span.glyphicon.gl
 a.button {
     font-size: 0.9em;
     padding: .5em 1em;
-    background: #ed4f2e;
+    background: #1f2c33;
     color: #fff;
     display: block;
     width: 44%;
@@ -277,20 +277,20 @@ a.button {
     background: #fff;
 }
 a.button.but1 {
-    background: #ed4f2e;
+    background: #1f2c33;
 }
 a.button.but2 {
-    background: #ed4f2e;
+    background: #1f2c33;
 }
 a.button.but3 {
-    background: #ed4f2e;
+    background: #1f2c33;
 }
 .price-bottom li {
     display: block;
 	line-height:1.8em;
 }
 .pricing:hover{
-border:1px solid #ed4f2e;
+border:1px solid #1f2c33;
 }
 /*--pri-cing--*/
 /*--ready--*/
@@ -327,7 +327,7 @@ a.bon {
     font-weight: 400;
 }
 a.bon:hover{
-   background: #ed4f2e;
+   background: #1f2c33;
     border:1px solid #ed4f2e;
 }
 /*--ready--*/
@@ -343,7 +343,7 @@ a.bon:hover{
     margin-bottom: 5em;
 }
 .portfolio h3 {
-    color: #ed4f2e;
+    color: #1f2c33;
     font-size: 2em;
     margin: 0;
     text-transform: uppercase;
@@ -439,7 +439,7 @@ a.bon:hover{
     padding: 9px 30px;
     font-size: 20px;
     cursor: pointer;
-    background:#ed4f2e;
+    background:#1f2c33;
     margin: 15px 0 0 0px;
     outline: none;
    border: none;
@@ -478,7 +478,7 @@ a.bon:hover{
     margin-bottom: 5em;
 }
 .contact h3 {
-    color:#ed4f2e;
+    color:#1f2c33;
     font-size: 2em;
     margin: 0;
     text-transform: uppercase;
@@ -514,7 +514,7 @@ a.bon:hover{
 }
 .send input[type="submit"] {
     font-size: 1.1em;
-    background:#ed4f2e;
+    background:#1f2c33;
     padding: 0.5em 2em;
     text-align: center;
     color: #fff;
@@ -545,7 +545,7 @@ a.bon:hover{
    font-family: 'Roboto Condensed', sans-serif;
 }
 .foot-left h2 a {
-    color: #ed4f2e;
+    color: #1f2c33;
     text-decoration: none;
 }
 .footer-top p {
@@ -567,7 +567,7 @@ a.bon:hover{
     color: #fff;
 }
 .footer p a:hover{
-    color: #ED4F2E;
+    color: #1f2c33;
 }
 .contact-btm span {
     color: #a3b1bf;
@@ -588,7 +588,7 @@ a.bon:hover{
     color: #a3b1bf;
 }
 .contact-btm p a:hover{
-    color:#ed4f2e;
+    color:#1f2c33;
 }
 .foot-left li {
     display: inline-block;
@@ -612,7 +612,7 @@ a.bon:hover{
     padding: 7px 21px;
     font-size: 15px;
     cursor: pointer;
-    background: #ed4f2e;
+    background: #1f2c33;
     margin: 4px 0 0 0px;
     outline: none;
     border: none;
@@ -628,7 +628,7 @@ a.bon:hover{
     -ms-transition: 0.5s all ease;
 }
 .ser-left span:hover {
-    color:#ed4f2e;
+    color:#1f2c33;
     transform: rotateY(360deg);
     transition: .5s all;
     -webkit-transition: .5s all;
