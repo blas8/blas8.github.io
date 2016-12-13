@@ -320,8 +320,8 @@ border:1px solid #ed4f2e;
 a.bon {
     font-size: 1em;
     padding: .5em 2em;
-   border:1px solid #fff;
-    color: #fff;
+   border:1px solid black;
+    color: black;
     display: inline-block;
     border-radius: 4px;
     font-weight: 400;
