@@ -73,7 +73,7 @@ a.navbar-brand {
     font-size: 17px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #1f2c33;
+    color: dodgerblue;
     background-color: transparent;
 }
 /*--/header--*/
