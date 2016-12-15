@@ -20,3 +20,26 @@
 	<table style=width:100%>
 		<tr>
 			<th>Firstname</th>
+			<td>lastname</td>
+			<th>age</th>
+		</tr>
+		<tr>
+			<td>jill</td>
+			<tr>smith</tr>
+			<td>50</td>
+		</tr>
+	</table>
+
+	<sidebar>
+    		<p>the eptoc center is a theme park in disney world, florida.</p>
+	</sidebar>
+
+	<form action="action_page.php"> first name:
+    		<input type="text" name="fisrtname">
+	</form>
+
+	<img src="http//milq.github.io/white-space/white-space.png">
+	<a url="http://google.com">Google.</a>
+
+</body>
+</hmtl>
